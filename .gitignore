@@ -220,3 +220,11 @@ cache/
 *.csv
 *.parquet
 
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Audio feature caches / temp
+*.npy
+*.npz
+
