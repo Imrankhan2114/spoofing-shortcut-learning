@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+soundfile
+librosa
+pyyaml
+tqdm
+scikit-learn
+statsmodels
+matplotlib
+pytest
+ruff
+black

@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Local machine configs (do NOT upload)
+configs/datasets/local/
+configs/paths.local.yaml
+
+# Datasets and generated artifacts
+data/
+results/
+cache/
+
+# Common generated files
+*.csv
+*.parquet
+
